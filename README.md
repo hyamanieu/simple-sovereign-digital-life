@@ -2,6 +2,28 @@
 
 *Reclaiming my photos, my documents, my passwords, and my phone without becoming an IT engineer.*
 
+-----
+**TOC**
+<!-- TOC -->
+
+- [Intro](#intro)
+- [Three pillars](#three-pillars)
+- [My setup](#my-setup)
+    - [Overview](#overview)
+    - [Why Nextcloud?](#why-nextcloud)
+    - [Why KeePass?](#why-keepass)
+    - [Why /e/OS?](#why-eos)
+- [How to begin](#how-to-begin)
+- [Honest feedback](#honest-feedback)
+- [Documentation](#documentation)
+- [Get in touch](#get-in-touch)
+- [License](#license)
+
+<!-- /TOC -->
+-----
+
+## Intro
+
 I wanted my data back. Simply. No stack to maintain, no engineering degree required, just my files, my memories, my documents under my control. 
 
 The **push**: Google knows pretty much everything about me. My e-mails, my positions, my pictures, [my keystrokes](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) and maybe even [my DNA](https://en.wikipedia.org/wiki/Anne_Wojcicki). 
